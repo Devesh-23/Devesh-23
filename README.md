@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Devesh Pachauri:
 🔭 I’m currently working on Farmeasy project <br>🤝 I'm looking to callaborate on Maths realted projects <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about marvel and Naruto <br><br>
 
 
