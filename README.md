@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm Devesh Pachauri:
 🔭 I’m currently working on Farmeasy project <br>🤝 I'm looking to collaborate on Maths related projects <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about marvel and Naruto <br><br>
 
@@ -28,11 +29,10 @@
   <tr>
     <td>Programming Languages</td>
     <td>
-      Dart, C++
+       C++
       <br>
       JavaScript, TypeScript
       <br>
-      Java, Kotlin
         <br>
       Python
     </td>
