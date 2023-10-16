@@ -1,15 +1,81 @@
 # Hi 👋, I'm Devesh Pachauri:
-🔭 I’m currently working on Farmeasy project <br>🤝 I'm looking to callaborate on Maths realted projects <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about marvel and Naruto <br><br>
+🔭 I’m currently working on Farmeasy project <br>🤝 I'm looking to collaborate on Maths related projects <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about marvel and Naruto <br><br>
+
+
+### My interests are
+
+- Mobile applications.
+- Desktop applications.
+- Backend and databases.
+- Web applications & websites.
+- Web scraping.
+- Reverse engineering.
+
+### My skillset is
+
+<table>
+  <tr>
+    <td>Frameworks & Libraries</td>
+    <td>
+      Flutter, Provider, Riverpod
+      <br>
+      React.js, react-router-dom, Node.js, Next.js, express.js
+      <br>
+     Flask, MySQL, AppScript
+      <br>
+     Jetpack Compose, XML, Retrofit, Dagger Hilt.
+    </td>
+  </tr>
+  <tr>
+    <td>Programming Languages</td>
+    <td>
+      Dart, C++
+      <br>
+      JavaScript, TypeScript
+      <br>
+      Java, Kotlin
+        <br>
+      Python
+    </td>
+  </tr>
+  <tr>
+    <td>Development Tools</td>
+    <td>
+      Git, Github
+      <br>
+      Visual Studio Code, Postman
+      <br>
+      Android Studio
+    </td>
+  </tr>
+  <tr>
+    <td>Platforms</td>
+    <td>
+      Deployment:  Vercel, Render
+      <br>
+      Operating Systems: Windows, GNU/Linux, macOS, Windows Subsystem for Linux
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Devesh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_devesh_pachauri23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devesh_23) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Devesh_pachauri) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
----
 [![](https://visitcount.itsvg.in/api?id=Devesh-23&icon=6&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
