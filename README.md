@@ -4,10 +4,9 @@
 
 ### My interests are
 
-- Mobile applications.
+- Web applications.
 - Desktop applications.
 - Backend and databases.
-- Web applications & websites.
 - Web scraping.
 - Reverse engineering.
 
