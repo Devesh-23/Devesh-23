@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm Devesh Pachauri:
-🔭 I’m currently working on Scripts to make my life Easy <br>🤝 I'm looking to collaborate on Maths related projects <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about marvel and Naruto <br><br>
+🔭 I’m currently working on Scripts to make my life Easy <br>🤝 I'm looking to collaborate on Maths related projects <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Marvel adn Anime <br><br>
 
 
 ### My interests are
